@@ -1,4 +1,4 @@
-import Admin from '../../models/admin';
+import Admin from '../../models/Admin';
 import dbConnect from '../conn';
 
 // GET request: Fetch all admins
